@@ -1,0 +1,7 @@
+(identifiers.src:1:1) Error — Invalid character sequence: _aslkdj
+(identifiers.src:1:16) Error — Invalid character sequence: $JK41ASD
+(identifiers.src:3:16) Error — Invalid character sequence: $$3a
+(identifiers.src:3:26) Error — Invalid character sequence: $
+(identifiers.src:5:1) Error — Invalid character sequence: __Aaskdaslk
+(identifiers.src:5:13) Error — Invalid character sequence: $$
+(identifiers.src:9:17) Error — Invalid character sequence: `~

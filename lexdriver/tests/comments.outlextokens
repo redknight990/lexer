@@ -1,0 +1,22 @@
+(comments.src:1:1) [Comment, // Full single line comment]
+(comments.src:3:1) [Identifier, Identifier]
+(comments.src:3:12) [Comment, // Partial single line comment]
+(comments.src:5:1) [Comment, ///// Multiple slash single linee comment]
+(comments.src:7:1) [Comment, // Single line comment with more ////// slashes in the middle]
+(comments.src:9:1) [BlockComment, /* Single line block comment */]
+(comments.src:11:1) [BlockComment, /* 
+   Multiline
+   Block
+   comment 
+ */]
+(comments.src:17:1) [BlockComment, /* 
+   Block comment with /// slashes and **** asterisks 
+ */]
+(comments.src:21:1) [BlockComment, /** 
+ *
+ * Javadoc style block comment
+ *
+ */]
+(comments.src:27:1) [Comment, /// <summary>]
+(comments.src:28:1) [Comment, /// C# style comment]
+(comments.src:29:1) [Comment, /// </summary>]

@@ -1,0 +1,11 @@
+(all.src:41:1) Error — Invalid character sequence: $$_inv$alidID
+(all.src:42:1) Error — Invalid character sequence: _bingbong
+(all.src:43:1) Error — Invalid character sequence: ____
+(all.src:45:2) Error — Invalid character sequence: $
+(all.src:45:4) Error — Invalid character sequence: $
+(all.src:45:6) Error — Invalid character sequence: $
+(all.src:45:10) Error — Invalid character sequence: _
+(all.src:45:12) Error — Invalid character sequence: ~
+(all.src:47:1) Error — Invalid character sequence: ~
+(all.src:48:1) Error — Invalid character sequence: %
+(all.src:49:2) Error — Invalid character sequence: @$

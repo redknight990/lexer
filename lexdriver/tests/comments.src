@@ -1,0 +1,29 @@
+﻿// Full single line comment
+
+Identifier // Partial single line comment
+
+///// Multiple slash single linee comment
+
+// Single line comment with more ////// slashes in the middle
+
+/* Single line block comment */
+
+/* 
+   Multiline
+   Block
+   comment 
+ */
+ 
+/* 
+   Block comment with /// slashes and **** asterisks 
+ */
+ 
+/** 
+ *
+ * Javadoc style block comment
+ *
+ */
+
+/// <summary>
+/// C# style comment
+/// </summary>
