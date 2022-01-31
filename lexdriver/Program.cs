@@ -25,7 +25,7 @@ namespace lexer {
             
             // Output files
             string outputTokensFile = options.Output ?? $"{Path.GetFileNameWithoutExtension(options.Input)}.outlextokens";
-            string outputErrorsFile = options.Output ?? $"{Path.GetFileNameWithoutExtension(options.Input)}.outlexerrors";
+            string outputErrorsFile = options.OutputError ?? $"{Path.GetFileNameWithoutExtension(options.Input)}.outlexerrors";
             
             // Create output directories
             FileInfo info = new FileInfo(outputTokensFile);
